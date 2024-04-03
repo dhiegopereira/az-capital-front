@@ -1,0 +1,367 @@
+{
+    "shirts": [
+        {
+            "id": "1",
+            "title": "Camisa Polo",
+            "price": 100,
+            "description": "Camisa polo clássica, feita de algodão puro e disponível em várias cores. Perfeita para um look casual elegante.",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Azul",
+                "Branco",
+                "Preto",
+                "Vermelho"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Camiseta Estampada",
+            "price": 25,
+            "description": "Camiseta confortável com estampa colorida na frente. Ideal para dias descontraídos ou exercícios leves.",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Verde",
+                "Cinza",
+                "Amarelo"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Camisa de Linho",
+            "price": 150,
+            "description": "Feita de linho de alta qualidade, esta camisa é respirável e elegante. Ótima para eventos formais ou para um toque de sofisticação no dia a dia.",
+            "sizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Branco",
+                "Bege",
+                "Azul Claro"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Camisa Xadrez",
+            "price": 80,
+            "description": "Padrão xadrez clássico em uma camisa de algodão macio. Perfeita para um estilo casual e descontraído.",
+            "sizes": [
+                "S",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Verde e Azul",
+                "Vermelho e Preto",
+                "Cinza e Branco"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Camiseta Básica",
+            "price": 15,
+            "description": "Camiseta simples e confortável, perfeita para uso diário. Disponível em várias cores.",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Branco",
+                "Preto",
+                "Azul",
+                "Vermelho"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Camisa Jeans",
+            "price": 90,
+            "description": "Camisa jeans durável e versátil, ótima para combinar com diferentes looks. Ideal para um estilo casual urbano.",
+            "sizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Azul Escuro",
+                "Azul Médio",
+                "Azul Claro"
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Camiseta Manga Longa",
+            "price": 30,
+            "description": "Camiseta de manga longa confortável, ótima para os dias mais frescos do ano. Disponível em várias cores.",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Branco",
+                "Preto",
+                "Cinza"
+            ]
+        },
+        {
+            "id": "8",
+            "title": "Polo Slim Fit",
+            "price": 120,
+            "description": "Camisa polo com corte slim fit para um visual mais elegante e moderno. Feita de material de alta qualidade para conforto o dia todo.",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Azul",
+                "Verde",
+                "Rosa"
+            ]
+        },
+        {
+            "id": "9",
+            "title": "Camiseta Esportiva",
+            "price": 40,
+            "description": "Camiseta leve e respirável, perfeita para atividades esportivas. Ajuda a manter você seco e confortável durante o treino.",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Preto",
+                "Azul",
+                "Verde"
+            ]
+        },
+        {
+            "id": "10",
+            "title": "Camisa Social",
+            "price": 130,
+            "description": "Camisa social clássica, ideal para eventos formais ou para o ambiente de trabalho. Feita de tecido respirável para conforto durante todo o dia.",
+            "sizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Branco",
+                "Azul",
+                "Rosa"
+            ]
+        },
+        {
+            "id": "11",
+            "title": "Regata Masculina",
+            "price": 20,
+            "description": "Regata masculina confortável, ótima para dias quentes ou para atividades físicas intensas. Disponível em várias cores.",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Branco",
+                "Preto",
+                "Cinza",
+                "Vermelho"
+            ]
+        },
+        {
+            "id": "12",
+            "title": "Camisa Floral",
+            "price": 70,
+            "description": "Camisa com estampa floral vibrante, perfeita para um visual descontraído e estiloso. Ideal para dias ensolarados e eventos ao ar livre.",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Verde",
+                "Branco",
+                "Azul"
+            ]
+        },
+        {
+            "id": "13",
+            "title": "Camisa de Flanela",
+            "price": 85,
+            "description": "Camisa de flanela macia e quente, ótima para os meses mais frios do ano. Pode ser usada sozinha ou como camada extra.",
+            "sizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Xadrez Azul",
+                "Xadrez Vermelho",
+                "Xadrez Verde"
+            ]
+        },
+        {
+            "id": "14",
+            "title": "Camiseta Polo Slim",
+            "price": 110,
+            "description": "Camiseta polo com corte slim para um visual mais ajustado. Feita de material de alta qualidade para conforto e durabilidade.",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Preto",
+                "Azul",
+                "Cinza"
+            ]
+        },
+        {
+            "id": "15",
+            "title": "Camisa Listrada",
+            "price": 75,
+            "description": "Camisa listrada elegante e moderna, perfeita para um look casual sofisticado. Feita de algodão macio para conforto o dia todo.",
+            "sizes": [
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Azul e Branco",
+                "Vermelho e Branco",
+                "Verde e Branco"
+            ]
+        },
+        {
+            "id": "16",
+            "title": "Camiseta Vintage",
+            "price": 35,
+            "description": "Camiseta com estampa vintage retrô, perfeita para os amantes do estilo clássico. Feita de algodão macio para conforto duradouro.",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Branco",
+                "Cinza",
+                "Verde"
+            ]
+        },
+        {
+            "id": "17",
+            "title": "Camisa de Manga Curta",
+            "price": 45,
+            "description": "Camisa de manga curta leve e fresca, ótima para os dias quentes de verão. Disponível em várias cores e estilos.",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Azul",
+                "Branco",
+                "Preto"
+            ]
+        },
+        {
+            "id": "18",
+            "title": "Polo de Algodão Pima",
+            "price": 140,
+            "description": "Polo de algodão Pima de alta qualidade, conhecido por sua maciez e durabilidade. Uma escolha elegante para qualquer ocasião.",
+            "sizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Branco",
+                "Azul",
+                "Preto"
+            ]
+        },
+        {
+            "id": "19",
+            "title": "Camiseta Henley",
+            "price": 55,
+            "description": "Camiseta estilo Henley com botões na gola, perfeita para um visual casual e descontraído. Feita de material macio para conforto o dia todo.",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Azul",
+                "Verde",
+                "Vermelho"
+            ]
+        },
+        {
+            "id": "20",
+            "title": "Camisa Oxford",
+            "price": 95,
+            "description": "Camisa Oxford clássica e atemporal, perfeita para um look elegante e sofisticado. Feita de tecido de alta qualidade para conforto e durabilidade.",
+            "sizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Branco",
+                "Azul",
+                "Rosa"
+            ]
+        }
+    ],
+    "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "colors": [
+        "Azul",
+        "Branco",
+        "Preto",
+        "Vermelho",
+        "Verde",
+        "Cinza",
+        "Amarelo",
+        "Bege",
+        "Azul Claro",
+        "Verde e Azul",
+        "Vermelho e Preto",
+        "Cinza e Branco",
+        "Azul Escuro",
+        "Azul Médio",
+        "Azul Claro",
+        "Xadrez Azul",
+        "Xadrez Vermelho",
+        "Xadrez Verde",
+        "Azul e Branco",
+        "Vermelho e Branco",
+        "Verde e Branco",
+        "Branco e Cinza",
+        "Preto e Branco",
+        "Preto e Vermelho",
+        "Azul e Verde",
+        "Rosa",
+        "Branco e Azul",
+        "Branco e Vermelho"
+    ]
+}
